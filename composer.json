@@ -19,7 +19,7 @@
         "symfony/finder": "*",
         "symfony/event-dispatcher": "*",
         "doctrine/collections": "*",
-        "doctrine/annotations": "*w",
+        "doctrine/annotations": "*",
         "doctrine/cache": "*",
         "ext-json": "*",
         "ext-sqlite3": "*",
