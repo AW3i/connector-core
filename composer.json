@@ -24,7 +24,7 @@
         "ext-json": "*",
         "ext-sqlite3": "*",
         "ext-zip": "*",
-        "php-di/php-di": "^6.0",
+        "php-di/php-di": "^6.0|^7.0",
         "jawira/case-converter": "^3.4",
         "symfony/http-foundation": "^4.0|^5.0",
         "symfony/filesystem": "^4.0|^5.0",
